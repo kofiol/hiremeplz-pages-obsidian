@@ -1,0 +1,298 @@
+{
+  "main": {
+    "id": "63aee54e552891ff",
+    "type": "split",
+    "children": [
+      {
+        "id": "eff145a7020bdc48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f2498f2a8e31bd5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "User one-pager.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "User one-pager"
+            }
+          },
+          {
+            "id": "8db3c1a95d630731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "custdev responses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "custdev responses"
+            }
+          },
+          {
+            "id": "7e14a91fd4568ad5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "custdev responses.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "custdev responses"
+            }
+          },
+          {
+            "id": "976e4ca8f84ed4e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview 1 cheatsheet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview 1 cheatsheet"
+            }
+          },
+          {
+            "id": "9d35cd0b5b00dda3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия/HireMePlz interview rahul notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HireMePlz interview rahul notes"
+            }
+          },
+          {
+            "id": "8a6385578fb25fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 13 24.11.25 ToDo List 13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 13 24.11.25 ToDo List 13"
+            }
+          },
+          {
+            "id": "dd6e7174cfb11d76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HireMePlz.app/Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "09a7efa91e78d459",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f30f737aa651102",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "313d0f1b3c60bd61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "07d6e1fce86b4ff1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "21550d2e369acea5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "right": {
+    "id": "742801dbf979a4ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c500c388337de8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ad527717fefc764",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day 1 12.11.25 ToDo List.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Day 1 12.11.25 ToDo List"
+            }
+          },
+          {
+            "id": "27e17487d80fbf84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day 1 12.11.25 ToDo List.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Day 1 12.11.25 ToDo List"
+            }
+          },
+          {
+            "id": "c80652f40d2b6bcd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "90ba9601b936d81a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day 1 12.11.25 ToDo List.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Day 1 12.11.25 ToDo List"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0f2498f2a8e31bd5",
+  "lastOpenFiles": [
+    "HireMePlz.app - Product Spec/06 🤖 AI Agents/03 Dashboard Copilot (Read-only).md",
+    "HireMePlz.app - Product Spec/06 🤖 AI Agents/02 Cover Letter Agent.md",
+    "HireMePlz.app - Product Spec/06 🤖 AI Agents/01 Job Search Agent.md",
+    "HireMePlz.app - Product Spec/03 🧩 Backend (REST API)/02 Endpoints.md",
+    "HireMePlz.app - Product Spec/03 🧩 Backend (REST API)/01 API Rules.md",
+    "HireMePlz.app - Product Spec/07 💼 User & Business Model/05 Risks, Compliance, Moats.md",
+    "HireMePlz.app - Product Spec/07 💼 User & Business Model/04 North Star Metrics & KPIs.md",
+    "HireMePlz.app - Product Spec/01 🗺️ Table of Contents.md",
+    "HireMePlz.app - Product Spec/00 📌 Start Here.md",
+    "HireMePlz.app - Product Spec/01 🧱 Architecture/01 Overview.md",
+    "HireMePlz.app - Product Spec/02 🖥️ Frontend (Next.js)/01 IA & Routes.md",
+    "HireMePlz.app - Product Spec/07 💼 User & Business Model/03 Acquisition & Marketing.md",
+    "HireMePlz.app - Product Spec/07 💼 User & Business Model/02 Pricing & Packaging.md",
+    "HireMePlz.app - Product Spec/07 💼 User & Business Model/01 Users, Pains, JTBD.md",
+    "HireMePlz.app - Product Spec/07 💼 User & Business Model",
+    "HireMePlz.app - Product Spec/06 🤖 AI Agents/07 Ranking & Filtering Logic.md",
+    "HireMePlz.app/05-Trigger.dev/README.md",
+    "HireMePlz.app - Product Spec/06 🤖 AI Agents/06 Agent Settings (User-facing).md",
+    "HireMePlz.app - Product Spec/06 🤖 AI Agents/05 Interview Prep Agent (Beta).md",
+    "HireMePlz.app - Product Spec/06 🤖 AI Agents/04 Upwork Profile Optimizer Agent.md",
+    "HireMePlz.app - Product Spec/06 🤖 AI Agents",
+    "HireMePlz.app - Product Spec/05 🧵 Trigger.dev (Workflows)/05 Scheduled Pollers.md",
+    "HireMePlz.app - Product Spec/05 🧵 Trigger.dev (Workflows)/04 Email Ingest (Mailgun).md",
+    "HireMePlz.app - Product Spec/05 🧵 Trigger.dev (Workflows)/03 Cover Letter Generation.md",
+    "HireMePlz.app - Product Spec/05 🧵 Trigger.dev (Workflows)/02 Job Search Agent Run.md",
+    "HireMePlz.app - Product Spec/05 🧵 Trigger.dev (Workflows)/01 Workflow Catalog.md",
+    "HireMePlz.app - Product Spec/05 🧵 Trigger.dev (Workflows)",
+    "HireMePlz.app - Product Spec/04 🗄️ Supabase (Source of Truth)/04 Embeddings & Vector Search.md",
+    "HireMePlz.app - Product Spec/04 🗄️ Supabase (Source of Truth)/03 Realtime & Notifications.md",
+    "HireMePlz.app - Product Spec/04 🗄️ Supabase (Source of Truth)",
+    "HireMePlz.app - Product Spec/03 🧩 Backend (REST API)",
+    "HireMePlz.app - Product Spec/02 🖥️ Frontend (Next.js)",
+    "HireMePlz.app - Product Spec/01 🧱 Architecture",
+    "HireMePlz.app - Product Spec",
+    "HireMePlz.app/06-AI-Agents",
+    "HireMePlz.app/05-Trigger.dev",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "theme": "system",
+  "accentColor": "",
+  "interfaceFontFamily": "Inter",
+  "cssTheme": "Minimal",
+  "baseFontSize": 15,
+  "baseFontSizeAction": false,
+  "nativeMenus": false
+}
