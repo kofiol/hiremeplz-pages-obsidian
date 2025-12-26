@@ -48,12 +48,13 @@ HireMePlz turns job search + outreach into a repeatable pipeline:
 
 **Workflows**
 - Trigger.dev (orchestrator)
-- Apify + BrightData as job-source tools
+- Job Source Router (provider adapters: Apify, BrightData, future)
 - Mailgun inbound webhook → Trigger.dev
 
 **LLM / Voice**
-- OpenAI (chat/completions for agents)
-- OpenAI Realtime (WebRTC) for interview prep (beta)
+- OpenAI Agents SDK (TypeScript) `@openai/agents` for agent loop, tools, guardrails, handoffs, tracing
+- OpenAI models via Agents SDK runner (`run()` / `Runner`)
+- OpenAI Realtime (WebRTC) for interview prep (beta), via Realtime Agents
 
 ## 📚 Glossary (canonical)
 - **Job**: normalized posting (platform-agnostic shape) stored in `public.jobs`.

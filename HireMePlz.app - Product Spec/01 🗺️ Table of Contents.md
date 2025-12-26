@@ -50,3 +50,15 @@
 - [[HireMePlz.app - Product Spec/07 💼 User & Business Model/03 Acquisition & Marketing]]
 - [[HireMePlz.app - Product Spec/07 💼 User & Business Model/04 North Star Metrics & KPIs]]
 - [[HireMePlz.app - Product Spec/07 💼 User & Business Model/05 Risks, Compliance, Moats]]
+
+## 08 🗓️ 8-Week Sprint Plan
+- [[HireMePlz.app - Product Spec/08 🗓️ 8-Week Sprint Plan/00 Overview]]
+- [[HireMePlz.app - Product Spec/08 🗓️ 8-Week Sprint Plan/01 Week 1 — Repo, Auth, Shell UI]]
+- [[HireMePlz.app - Product Spec/08 🗓️ 8-Week Sprint Plan/02 Week 2 — Supabase Schema, RLS, Onboarding]]
+- [[HireMePlz.app - Product Spec/08 🗓️ 8-Week Sprint Plan/03 Week 3 — Trigger.dev, CV Parse, Agent Runs]]
+- [[HireMePlz.app - Product Spec/08 🗓️ 8-Week Sprint Plan/04 Week 4 — Job Source Router + Job Search MVP]]
+- [[HireMePlz.app - Product Spec/08 🗓️ 8-Week Sprint Plan/05 Week 5 — Cover Letters + Extension Apply Flow]]
+- [[HireMePlz.app - Product Spec/08 🗓️ 8-Week Sprint Plan/06 Week 6 — Messages Ingest + Feedback Loop]]
+- [[HireMePlz.app - Product Spec/08 🗓️ 8-Week Sprint Plan/07 Week 7 — Teams, Limits, Billing, Copilot]]
+- [[HireMePlz.app - Product Spec/08 🗓️ 8-Week Sprint Plan/08 Week 8 — Interview Prep Beta, Upwork Optimizer, Launch]]
+- [[HireMePlz.app - Product Spec/08 🗓️ 8-Week Sprint Plan/09 Weekly Checklist Template]]

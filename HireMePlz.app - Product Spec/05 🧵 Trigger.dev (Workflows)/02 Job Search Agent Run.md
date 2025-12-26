@@ -27,10 +27,13 @@ From Supabase:
 8. `emit_notifications`
 
 ## 🔧 Tools
-- Apify actor(s):
-  - Upwork jobs search + parsing
-  - LinkedIn jobs search + parsing
-- BrightData where Apify coverage is unstable
+- Job Source Router (single integration surface)
+  - Apify adapters:
+    - Upwork jobs search + parsing
+    - LinkedIn jobs search + parsing
+  - BrightData adapters (fallback)
+
+The router returns provider-agnostic raw results, then the workflow runs normalization + ranking and writes canonical `jobs` + `job_rankings`.
 
 ## 🧹 Normalization rules
 - Always set canonical fields (see Architecture → Canonical Data Contracts).

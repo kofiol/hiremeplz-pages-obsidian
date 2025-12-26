@@ -48,3 +48,10 @@ Per user:
 - strictness
 - question categories enabled
 
+
+## 🧱 Agents SDK mapping (how settings actually apply)
+All agent settings are applied to the OpenAI Agents SDK runner per execution:
+- model + global tuning are configured on `Runner` (run config)
+- agent-specific tuning (temperature, style) is passed into the agent’s instructions and/or tool inputs
+- approval-based actions use Human-in-the-loop (`needsApproval`) and resume from saved run state
+
